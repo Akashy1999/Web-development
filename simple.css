@@ -1,0 +1,37 @@
+
+    h1,h2,h3{
+        color:purple;
+        font-size: 60px;
+        text-transform: uppercase;
+    }
+    .classSelector{
+        color: green;
+        font-size: 60px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-decoration: underline;
+    }
+    #header{
+        color:blue;
+        font-size: 80px;
+        text-decoration: underline;
+    }
+    h3{
+        color:aqua;
+    }
+.box{
+    padding:10px 20px 30px  40px;
+    margin:20px;
+    border: 2px dotted red;
+    background-color: rgb(184, 149, 149);}
+
+.rect{
+    border:10px solid rgb(230, 12, 12);
+    height:100px;
+    width:300px;
+
+    }
+    .box{
+        border:10px solid black;
+    height:10px;
+    width:190px; 
+    }
